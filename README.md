@@ -5,3 +5,6 @@ Built using:HTML,CSS,PHP,JS,MySql(database)
 main pages:Home,About,Services,Contact
 
 *the contact page has a form to contact the business 
+
+![Uploading Screenshot 2024-05-18 105114.png…]()
+
